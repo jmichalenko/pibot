@@ -1,1 +1,1 @@
-stream
+var a =1;
